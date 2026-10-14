@@ -1,8 +1,8 @@
 cask "floating-terminal" do
-  version "1.0.5"
-  sha256 "627193d40d55574bc3d09b9b356f7b8ec734192fc2be3040b1d6dd3b1747148c"
+  version "1.0.6"
+  sha256 "6527d215f10e6ef90ae82364b719f614932f82e644cff9dd39fac8102f134ca3"
 
-  url "https://github.com/RuslanTsitser/FloatingTerminal/releases/download/v1.0.5/FloatingTerminal-1.0.5.zip"
+  url "https://github.com/RuslanTsitser/FloatingTerminal/releases/download/v1.0.6/FloatingTerminal-1.0.6.zip"
   name "FloatingTerminal"
   desc "Drop-down terminal activated by a global hotkey"
   homepage "https://github.com/RuslanTsitser/FloatingTerminal"
